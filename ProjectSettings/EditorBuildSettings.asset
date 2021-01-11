@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/LavaSceneSpecial.unity
-    guid: c6bb49229540e3e47b18ff219fdae42c
-  - enabled: 1
-    path: Assets/Scenes/dlaMariana.unity
-    guid: 889b4daee9295724783eee69ef381a5f
+    path: Assets/Scenes/LavaScene2.unity
+    guid: 1a7d2ac4adacd6e40be0720b70409728
   m_configObjects: {}
